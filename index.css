@@ -22,7 +22,7 @@ body {
 .container h1 {
   font-size: 8vw;
   margin-left: 10px;
-  font-family: "Mochiy Pop P One", sans-serif;
+  font-family: "Mochiy Pop P One", Arial;
   -webkit-text-stroke: 0.5px #fff;
   color: transparent;
   background: url(images/rolly.png);
