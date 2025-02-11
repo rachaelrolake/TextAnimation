@@ -31,6 +31,13 @@ body {
   animation: rolly 20s linear infinite;
 } 
 
+.container p {
+  font-size: 4vw;
+  margin-left: 10px;
+  font-family: "Agbalumo", Arial;
+  color: #fff;
+}
+
 @keyframes rolly {
   100% {
      background-position: 2000px 0;
