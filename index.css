@@ -18,8 +18,9 @@ body {
   padding: 20px;
 }
 
-.container {
+.cont {
   display: flex;
+  align-items: center;
 }
 
 /*text*/
@@ -37,7 +38,7 @@ body {
   margin-bottom: 0;
 } 
 
-.container p {
+.title p {
   font-size: 4vw;
   margin-left: 10px;
   font-family: "Agbalumo", Arial;
